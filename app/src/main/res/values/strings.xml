@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">YukBelajar!</string>
+    <string name="btn_home">Mulai Belajar!</string>
+    <string name="btn_download">Download Materi</string>
+    <string name="btn_Howto">Bantuan</string>
+    <string name="btn_aboutme">About</string>
+    <string name="watermark">Muhammad Husni Abdillah - 191 111 054</string>
+    <string name="watermark2">YukBelajar! v1.0</string>
+    <string name="judul">YukBelajar!</string>
+</resources>
